@@ -4,7 +4,6 @@ pandas
 numpy
 scikit-learn
 flask-cors
-pickle5
 
 # Flask==3.1.1
 # gunicorn==23.0.0
